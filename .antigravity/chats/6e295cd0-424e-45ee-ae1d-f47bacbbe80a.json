@@ -40,6 +40,18 @@
       "created_at": "2026-11-19T16:49:22.417Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "3b7fc2a0-9249-4f2b-b2e6-4a78b9e1da0a",
+      "role": "user",
+      "content": "I attached an image: .antigravity/uploads/photo-1795106992-367f31b0.jpg.\n\ni got this message",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-19T16:50:05.987Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
